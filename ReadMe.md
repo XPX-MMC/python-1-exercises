@@ -1,8 +1,15 @@
 # Python I Assignments
+Assignments are located [here](Assignments.md).
 
 # Getting Started
 - Clone this repo
-- Open directory with IntelliJ
-- Create Python configuration
-- Update [main.py](main.py) with your student id
+- Open python-1 directory with IntelliJ
+- Create Python configuration (select `main.py`)
+- Update [main.py](main.py) with your student ID
+
+# Workflow
+- Write code in your assignments.py file in your student directory
 - Submit a PR for each exercise
+
+# Notes
+- Built with IntelliJ 2022.2
