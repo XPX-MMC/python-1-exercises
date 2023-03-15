@@ -17,3 +17,4 @@ Assignments are located [here](Assignments.md).
 
 # Notes
 - Built with IntelliJ 2022.2
+- Built using Python 3.10
