@@ -14,6 +14,7 @@ Assignments are located [here](Assignments.md).
 - Create configuration:
   - Edit Configurations...
   - Click plus, create name, select `main.py` file
+  - Use SDK Module
 
 # Notes
 - Built with IntelliJ 2022.2
