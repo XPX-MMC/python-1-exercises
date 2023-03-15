@@ -2,7 +2,7 @@
 Assignments are located [here](Assignments.md)
 
 # Getting Started
-- Clone this repo.
+- Clone this repo
 - Launch IntelliJ
 - Open the Python directory from IntelliJ
 - Create virtual environment: `python -m venv venv`
@@ -14,3 +14,6 @@ Assignments are located [here](Assignments.md)
 - Create configuration:
   - Edit Configurations...
   - Click plus, create name, select `main.py` file
+
+# Notes
+- Built with IntelliJ 2022.2
