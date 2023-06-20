@@ -1,5 +1,5 @@
 # Python Intro I Assignments
-Submit a PR for each assignment.
+Commit and push up after each assignment.
 
 # Ex. 1 Hello World
 Create a Python function named `hello_world` that accepts a string

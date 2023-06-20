@@ -1,10 +1,9 @@
-
-# Update with your student id.
-from students.stu0.assignments import *
+from exercises import ex1
 
 
 def main():
-    ex1()
+    print('ding dong')
+    ex1.ex1()
 
 
 if __name__ == '__main__':

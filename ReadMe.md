@@ -2,8 +2,8 @@
 Assignments are located [here](Assignments.md).
 
 # Getting Started
-- Clone this repo
-- Launch IntelliJ
+- Fork and clone this repo
+- Launch repo in your IDE of choice
 - Open the Python directory from IntelliJ
 - Create virtual environment: `python -m venv venv`
 - Activate virtual environment: `venv\Scripts\activate.bat`
