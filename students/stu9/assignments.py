@@ -1,10 +1,28 @@
-def ex1():
-    print("ex 1")
+def ex1(times):
+    num_times = None
+
+    if times.isdigit():
+        num_times = int(times)
+
+    if num_times is not None:
+        print("\n".join(["hello world here i come!"] * num_times))
+
+ex1("3")
 
 
-def ex2():
-    print("ex 2")
+# def ex2(array):
+def array_to_string(array):
+    result = ''
+    for element in array:
+        result += str(element) + ', '
+    result = result.rstrip('')
+    return result
 
+array = [1, 2, 3]
+result = ', '.join(str(element) for element in array)
+print (result)
+
+    
 
 def ex3():
     print("ex 3")
