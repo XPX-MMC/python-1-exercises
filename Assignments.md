@@ -41,7 +41,7 @@ Create a Python function named `add_numbers` that accepts an array of numeric ty
 them as a float value. The function must use a for loop and must cast the numbers to `floats`.
 
 Usage:
-```python ni
+```python
 array = [1.0, 1.1, "1"]
 result = add_numbers(array)
 print(result)
